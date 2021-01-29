@@ -118,7 +118,7 @@ function draw() {
  
   
   if(coinGroup.isTouching(runner)){
-    score = score + 0.5;
+    score++;
   }
   
   
