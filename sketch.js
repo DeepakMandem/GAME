@@ -92,7 +92,7 @@ function draw() {
     
     
     if(obstaclesGroup.isTouching(runner)){
-      count = count + 1;
+      count++;
     }
   }
 
